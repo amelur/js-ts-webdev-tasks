@@ -1,0 +1,19 @@
+{
+  "name": "js-ts-webdev-tasks",
+  "version": "1.0.0",
+  "description": "Your task is to develop a webpage according to the provided Figma design. In Figma navigate to `Pages -> Showcase -> showcase_9`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.1",
+    "typescript": "^5.6.3"
+  }
+}

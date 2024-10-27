@@ -1,0 +1,148 @@
+:root {
+  --Colors-Heading: #1e0e62;
+  --Colors-Grey: #ebeaed;
+  --Colors-White: #fff;
+  --Action-Primary: #25dac5;
+  --Colors-Text: rgba(21, 20, 57, 0.4);
+  --Action-Secondary: #482be7;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  src: url('assets/fonts/DMSans-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  src: url('assets/fonts/DMSans-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  src: url('assets/fonts/DMSans-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+ul[class],
+ol[class] {
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 100vh; */
+}
+
+.showcase {
+  padding: 100px 115px 90px;
+}
+
+.showcase h2 {
+  color: var(--Colors-Heading, #1e0e62);
+  text-align: center;
+  font-family: 'DM Sans';
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: -0.4px;
+}
+
+.showcase__subtitle {
+  width: 758px;
+  color: var(--Colors-Text, rgba(21, 20, 57, 0.4));
+  text-align: center;
+  font-family: 'DM Sans';
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  padding: 20px 0 52px;
+  margin: 0 auto;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.card {
+  width: 570px;
+}
+
+.card__content {
+  padding: 24px 80px 28px 33px;
+}
+
+.card__title {
+  color: var(--Colors-Heading, #1e0e62);
+  font-family: 'DM Sans';
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+}
+
+.card__description {
+  color: var(--Colors-Text, rgba(21, 20, 57, 0.4));
+  font-family: 'DM Sans';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  padding: 11px 0 17px;
+}
+
+.card__tags {
+  color: var(--Action-Secondary, #482be7);
+  font-family: 'DM Sans';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px; /* 185.714% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.card__tag {
+  display: inline;
+}

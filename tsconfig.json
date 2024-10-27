@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "jsx": "react-jsx", // Set this to "react" if using React 17 or below
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src/**/*", // Adjust according to your folder structure
+    "db/**/*",
+    "components/**/*"
+  ],
+  "exclude": ["node_modules"]
+}
