@@ -1,0 +1,45 @@
+{
+  "title": { "en": "Halloween Memories", "ar": "هالوین پارتی های قبلیمون" },
+  "items": [
+    {
+      "src": "../../assets/images/gallery/image01.png",
+      "alt": "Halloween Memory 1"
+    },
+    {
+      "src": "../../assets/images/gallery/image02.png",
+      "alt": "Halloween Memory 2"
+    },
+    {
+      "src": "../../assets/images/gallery/image03.png",
+      "alt": "Halloween Memory 3"
+    },
+    {
+      "src": "../../assets/images/gallery/image04.png",
+      "alt": "Halloween Memory 4"
+    },
+    {
+      "src": "../../assets/images/gallery/image05.png",
+      "alt": "Halloween Memory 5"
+    },
+    {
+      "src": "../../assets/images/gallery/image06.png",
+      "alt": "Halloween Memory 6"
+    },
+    {
+      "src": "../../assets/images/gallery/image07.png",
+      "alt": "Halloween Memory 7"
+    },
+    {
+      "src": "../../assets/images/gallery/image08.png",
+      "alt": "Halloween Memory 8"
+    },
+    {
+      "src": "../../assets/images/gallery/image09.png",
+      "alt": "Halloween Memory 9"
+    },
+    {
+      "src": "../../assets/images/gallery/image10.png",
+      "alt": "Halloween Memory 10"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+.gallery {
+  position: relative;
+}
+
+.gallery__title {
+  color: var(--main, #fe772d);
+  text-align: center;
+  font-family: 'Jolly Lodger';
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  text-transform: uppercase;
+  padding: 100px 0 48px;
+}
+
+.gallery__img {
+  position: absolute;
+  left: 31px;
+  top: -224px;
+  width: 525px;
+  padding-bottom: 0.064px;
+}
+
+.gallery__list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 48px;
+}

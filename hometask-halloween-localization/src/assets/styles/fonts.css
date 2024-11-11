@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Digi Nozha2 Bold';
+  src: url('../fonts/Digi Nozha2 Bold.ttf') format('ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Digi Nozha2 Regular';
+  src: url('../fonts/Digi Nozha2 Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}

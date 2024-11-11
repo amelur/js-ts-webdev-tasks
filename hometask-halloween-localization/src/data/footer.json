@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "phone reservation? (+1) 987 46 52",
+    "ar": "رزرو تلفنی؟  987 46 52  (+1)"
+  },
+  "media": [
+    {
+      "src": "../../assets/images/svg/behance.svg",
+      "alt": "Behance Icon"
+    },
+    {
+      "src": "../../assets/images/svg/figma.svg",
+      "alt": "Figma Icon"
+    },
+    {
+      "src": "../../assets/images/svg/linkedin.svg",
+      "alt": "Linkedin Icon"
+    },
+    {
+      "src": "../../assets/images/svg/instagram.svg",
+      "alt": "Instagram Icon"
+    },
+    {
+      "src": "../../assets/images/svg/youtube.svg",
+      "alt": "Youtube Icon"
+    }
+  ]
+}

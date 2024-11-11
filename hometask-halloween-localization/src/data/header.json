@@ -1,0 +1,16 @@
+{
+  "en": {
+    "title": "Party Time!",
+    "nav": {
+      "items": ["Home", "Gallery", "About Party", "Reservation", "Contacts"]
+    },
+    "button": "Reservation"
+  },
+  "ar": {
+    "title": "پارتی تایم",
+    "nav": {
+      "items": ["خانه", "گالری ", "درباره پارتی", "رزرو میز", "تماس با ما"]
+    },
+    "button": "رزرو میز"
+  }
+}

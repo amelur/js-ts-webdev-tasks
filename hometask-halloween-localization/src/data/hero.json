@@ -1,0 +1,26 @@
+{
+  "en": {
+    "dateIcon": {
+      "src": "./src/assets/images/svg/calendar.svg",
+      "alt": "Date Icon"
+    },
+    "date": "31 October 2023",
+    "title": "It's Halloween Party O'Clock!",
+    "arrowDownIcon": {
+      "src": "./src/assets/images/svg/arrow-down.svg",
+      "alt": "Arrow Down Icon"
+    }
+  },
+  "ar": {
+    "dateIcon": {
+      "src": "./src/assets/images/svg/calendar.svg",
+      "alt": "أيقونة التاريخ"
+    },
+    "date": "31 اکتبر 2013",
+    "title": "اینجا هالوین پارتی به راهه!",
+    "arrowDownIcon": {
+      "src": "./src/assets/images/svg/arrow-down.svg",
+      "alt": "أيقونة السهم للأسفل"
+    }
+  }
+}
